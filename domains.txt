@@ -1,0 +1,3 @@
+monsite01.com
+monsiteO2.com
+#fichier à remplir d'une liste d'URL ou d'IP sur chaque ligne

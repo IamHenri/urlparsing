@@ -1,0 +1,5 @@
+monsite01.com
+ko
+monsiteO2.com
+ok
+#fichier d'exemple de résultats ok pour ping reçu ko sinon
