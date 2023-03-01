@@ -11,7 +11,7 @@ status = 0 								#stockage de la longueur de la liste
 statustrg = str(status)
 for i in range(0,n): 						        #initialisation de la boucle
 	url = urls[i]							#stockage un a un des urls du fichier
-	status = os.system("ping " + " -n 2 /w 1000" + url  )		#ping de l'url et /w 1000 : pas de fenetre de console en pleine face + accélération du process
+	status = os.system("ping " + " -n 2" + url  )		#ping de l'url 
 	if status == 0: 
 		Status = "ok"
 	else:
